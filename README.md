@@ -1,5 +1,5 @@
 # Portfolio Webpage
-I've built this project of my personal portfolio by creating and hosting it entirely on **HTML** along with some basic inline styles for formatting. It serves as a digital resume that showcases my technical background, projects, skills, hobbies and ways to contact me.
+This portfolio website was created and hosted entirely using **HTML**, with basic inline styling for formatting. It acts as a digital resume, presenting my technical expertise, projects, skills, personal interests, and contact details in a clear and organized manner.
 
 ### Project Overview 
 The project consists of a multi-page static website structured with:
